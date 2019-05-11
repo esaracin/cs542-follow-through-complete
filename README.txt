@@ -3,8 +3,8 @@
 #
 # Collaborators:
 # Eli Saracino (esaracin@bu.edu)
-# Sameer C.
-# Junior S.
+# Sameer C. (sameerc@bu.edu)
+# Junior S. (ksirivad@bu.edu)
 #
 
 The code in these directories pertains to the solution to our Final Project, Follow Through.
